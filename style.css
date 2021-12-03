@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url("img/5317.jpg") no-repeat center center/cover;
+  background: url("img/bg-main.jpg") center/cover no-repeat ;
   height: 100vh;
   color: white;
   font-family: 'Cormorant Infant', serif;
